@@ -2,4 +2,4 @@
 This python script allows you to ICMP scan / ping sweep subnets.
 Simply run the script and fill in the subnet ID en netmask or CIDR
 
-<Written and testen in Python 3.4>
+Written and test in Python 3.4
